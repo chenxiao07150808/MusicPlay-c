@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1545461757 source:f:\software\cwork\musicplay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1545394518 source:f:\software\cwork\musicplay\musicshowmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1545568428 source:f:\software\cwork\musicplay\pianoplay.c
+	<windows.h>
+
+1545568361 source:f:\software\cwork\musicplay\piano.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1545568464 source:f:\software\cwork\musicplay\music.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1544846628 source:f:\software\cwork\musicplay\mymusic.c
+	<windows.h>
+	<stdio.h>
+
+1545467847 source:f:\software\cwork\musicplay\readfile.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1545468030 source:f:\software\cwork\musicplay\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1544969605 source:f:\software\cwork\musicplay\register.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<direct.h>
+
+1545464173 source:f:\software\cwork\musicplay\personalmusic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1544930087 source:f:\software\cwork\musicplay\startapp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1544952668 source:f:\software\cwork\musicplay\musiclist.c
+
+1545568691 source:f:\software\cwork\musicplay\updatemusic.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
